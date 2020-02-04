@@ -21,4 +21,4 @@ include "classes/categorie.php";
 // Ouverture de la base de données
 global $bdd;
 //$bdd = new PDO("mysql:host=sqlprive-be24678-001.privatesql;dbname=p-fromentin; charset=UTF8","p-fromentin", "Delauney42");
-$bdd = new PDO("mysql:host=pascalfrpjperso.mysql.db;dbname=pascalfrpjperso; charset=UTF8", "pascalfrpjperso", "Filles2401");
+$bdd = new PDO("mysql:host=xxx;dbname=xxx; charset=UTF8", "xxx", "xxx");
